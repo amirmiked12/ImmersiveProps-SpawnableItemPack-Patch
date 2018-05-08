@@ -1,1 +1,8 @@
-{"name":"ImmersiveProps SpawnableItemPack Patch","includes":["SpawnableItemPack"]}
+{
+  "author" : "amirmiked12",
+  "description" : "Patch For Spawnable item pack mod",
+  "friendlyName" : "immersive props Sip Patch",
+  "includes" : [SpawnableItemPack],
+  "name" : "Immersive props Patch",
+  "version" : "1.0"
+}
